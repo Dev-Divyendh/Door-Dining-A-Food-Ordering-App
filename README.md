@@ -13,7 +13,6 @@ This project was designed to simulate a real-world food delivery platform — sh
 ## 👥 Author
 
 **Dev Divyendh Dhinakaran**  
-📧 ddhinaka@gmu.edu
 
 ---
 
@@ -61,31 +60,28 @@ This project was designed to simulate a real-world food delivery platform — sh
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/cefb54fb-4d32-4571-aaf9-9e98aa21f472" width="600"/><br>
-  <em>Figure 1: App Homepage with Best Shops and Categories</em>
+  <em>Figure 1: App Homepage </em>
 </p>
 
 <p align="center">
-  <img src="screenshots/search.png" width="600"/><br>
-  <em>Figure 2: Search with Live Filtering</em>
+  <img src="https://github.com/user-attachments/assets/6591e6ad-269c-4735-b6d0-4d8f76dd4299" width="600"/><br>
+  <em>Figure 2: Abbout Us</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/cart.png" width="600"/><br>
-  <em>Figure 3: Smart Cart System with Quantity Editing</em>
+  <img src="https://github.com/user-attachments/assets/6f96c1df-9bf5-40a6-8400-85e27a20c74b" width="600"/><br>
+  <em>Figure 3:The app Dashboard</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/checkout.png" width="600"/><br>
-  <em>Figure 4: Checkout Flow with Address and Payment</em>
+  <img src="https://github.com/user-attachments/assets/397db32a-8148-491b-93aa-c50719ef15cd" width="600"/><br>
+  <em>Figure 4: Search Bar and Cart</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/restaurant-register.png" width="600"/><br>
-  <em>Figure 5: New Restaurant Registration</em>
+  <img src="https://github.com/user-attachments/assets/c75b92bc-da5c-4a42-8c5b-0f51f03d7d71" width="600"/><br>
+  <em>Figure 5:My orders</em>
 </p>
-
----
-
 
 ---
 
